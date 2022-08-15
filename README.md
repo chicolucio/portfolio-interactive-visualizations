@@ -30,6 +30,9 @@ A complete list can be seen in each project link.
 - [pH diagrams](https://github.com/chicolucio/pH-diagrams)
   > A project to plot pH diagrams used in chemistry.
   [![streamlit app](https://img.shields.io/badge/-Streamlit%20app-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://phdiagrams.herokuapp.com/)
+- [Pi approximations](https://github.com/chicolucio/pi-approximations)
+  > Pi approximations calculated using infinite series and Monte Carlo methods
+  [![streamlit app](https://img.shields.io/badge/-Streamlit%20app-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://piapproximations.herokuapp.com/)
 - [Planck](https://github.com/chicolucio/planck) 
   > A project to visualize the Planck's law.
 - [Phase diagrams](https://github.com/chicolucio/PhaseDiagram)
