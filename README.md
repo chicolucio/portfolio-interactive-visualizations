@@ -35,6 +35,7 @@ A complete list can be seen in each project link.
   [![streamlit app](https://img.shields.io/badge/-Streamlit%20app-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://piapproximations.herokuapp.com/)
 - [Planck](https://github.com/chicolucio/planck) 
   > A project to visualize the Planck's law.
+  [![streamlit app](https://img.shields.io/badge/-Streamlit%20app-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://planck.streamlitapp.com/)
 - [Phase diagrams](https://github.com/chicolucio/PhaseDiagram)
   > A project to plot phase diagrams used in chemistry.
 - [Reversible first order reactions](https://github.com/chicolucio/ReversibleFirstOrder)
