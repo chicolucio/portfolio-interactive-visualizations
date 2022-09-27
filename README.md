@@ -36,10 +36,11 @@ A complete list can be seen in each project link.
 - [Planck](https://github.com/chicolucio/planck) 
   > A project to visualize the Planck's law.
   [![streamlit app](https://img.shields.io/badge/-Streamlit%20app-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://planck.streamlitapp.com/)
-- [Phase diagrams](https://github.com/chicolucio/PhaseDiagram)
-  > A project to plot phase diagrams used in chemistry.
 - [Reversible first order reactions](https://github.com/chicolucio/ReversibleFirstOrder)
   > A project to visualize reversible first order reactions.
+  [![streamlit app](https://img.shields.io/badge/-Streamlit%20app-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://reversiblefirstorder.streamlitapp.com/)
+- [Phase diagrams](https://github.com/chicolucio/PhaseDiagram)
+  > A project to plot phase diagrams used in chemistry.
 - [Solutions](https://github.com/chicolucio/solutions)
   > Solubility and concentration database of common chemical substances.
 - [Matplotlove](https://github.com/chicolucio/matplotlove)
